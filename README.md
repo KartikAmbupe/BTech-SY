@@ -1,1 +1,1 @@
-# Resources and Assignment for BTech-SY
+# Resources and Assignments for BTech-SY
