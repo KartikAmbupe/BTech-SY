@@ -1,1 +1,1 @@
-# BTech-SY
+# Resources for BTech-SY
